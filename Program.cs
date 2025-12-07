@@ -43,6 +43,10 @@ internal class Program
 				Day06.SolvePart1();
 				Day06.SolvePart2();
 				break;
+			case 7:
+				Day07.SolvePart1();
+				Day07.SolvePart2();
+				break;
 			default:
 				Console.WriteLine("Day not found");
 				break;
